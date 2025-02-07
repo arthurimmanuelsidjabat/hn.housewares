@@ -1,0 +1,58 @@
+[
+    {
+        "category": { "name": "Cookware", "href": "#" },
+        "links": [
+            { "name": "Pans", "href": "#" },
+            { "name": "Pots", "href": "#" },
+            { "name": "Specialty Cookware", "href": "#" },
+            { "name": "Cookware Accessories", "href": "#" },
+            { "name": "Appliances", "href": "#" }
+        ]
+    },
+    {
+        "category": { "name": "Kitchenware", "href": "#" },
+        "links": [
+            { "name": "Bakeware", "href": "#" },
+            { "name": "Cleaning", "href": "#" },
+            { "name": "Cutting Boards", "href": "#" },
+            { "name": "Grind & Spices", "href": "#" },
+            { "name": "Kitchen Gadgets", "href": "#" },
+            { "name": "Mix & Measure", "href": "#" },
+            { "name": "Scissors & Shears", "href": "#" },
+            { "name": "Storage & Organisation", "href": "#" },
+            { "name": "Utensils", "href": "#" }
+        ]
+    },
+    {
+        "category": { "name": "Knives", "href": "#" },
+        "links": [
+            { "name": "Loose Kitchen Knives", "href": "#" },
+            { "name": "Knife Blocks & Sets", "href": "#" },
+            { "name": "Knife Sharpeners", "href": "#" },
+            { "name": "Accessories", "href": "#" }
+        ]
+    },
+    {
+        "category": { "name": "Tableware", "href": "#" },
+        "links": [
+            { "name": "Cutleries", "href": "#" },
+            { "name": "Brands", "href": "#" },
+            { "name": "Serveware", "href": "#" },
+            { "name": "Tea & Coffee", "href": "#" },
+            { "name": "Surface Protectors", "href": "#" },
+            { "name": "Drinkware", "href": "#" },
+            { "name": "Barware", "href": "#" },
+            { "name": "Cheese Tools", "href": "#" },
+            { "name": "Children", "href": "#" }
+        ]
+    },
+    {
+        "category": { "name": "Company", "href": "#" },
+        "links": [
+            { "name": "About Us", "href": "#" },
+            { "name": "Contact Us", "href": "#" },
+            { "name": "Terms of Use", "href": "#" },
+            { "name": "Privacy Policy", "href": "#" }
+        ]
+    }
+]

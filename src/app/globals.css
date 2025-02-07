@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@theme {
+    --color-blue-900    :   oklch(.346 0.153 261.33);
+    --color-pink-200    :   oklch(.9085 0.0232 17.59);
+    --color-green-200   :   oklch(.869 0.0312 173.5);
+    --color-green-500   :   oklch(.552 0.1234 157.01);
+    --color-orange-200  :   oklch(.934 0.032 76.45);
+    --color-orange-500  :   oklch(.704 0.184 36.13);
+    --color-neutral-100 :   oklch(.9791 0 0);
+    --color-stone-100   :   oklch(.944 0.0115 84.58);
+    --color-stone-200   :   oklch(.911 0.0157 86.43);
+    --color-stone-300   :   oklch(.833 0.0089 84.58);
+    --color-stone-700   :   oklch(.321 0 0);
+    --color-sky-200     :   oklch(.918 0.0322 224.24);
+    --color-zinc-100    :   oklch(.937 0.0083 91.49);
+    --color-purple-50   :   oklch(.8895 0.048 319.46);
+    --text-12xl         :   12rem;
+}
+
+body {
+    font-family: var(--font-inter-sans);
+}
